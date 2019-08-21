@@ -1,0 +1,3 @@
+ClientName	PatientName	PatientGender	DiagnosisCode	ProcedureCode
+ABC	John Park	Male	XX	YY
+BCD	Mike Smith	Male	YY	ZZ 
